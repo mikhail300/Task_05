@@ -1,0 +1,2 @@
+Вася;12345;Ivan;Ivanov;ivanov@mail.ru;ADMIN
+Петя;54321;Петя;Петров;petrov@mail.ru;USER
